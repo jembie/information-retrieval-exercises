@@ -1,8 +1,6 @@
 (WIP)
 This repository contains the lab exercises for the **Information Retrieval** lecture at the Dresden University of Technology (TUD) for the Winter term 25/26.
 
-This work was conducted as part of the Kather Lab summer project program. Throughout the summer, I have designed and implemented a small pipeline focusing on experimental evaluation of language models in medical contexts by comparing textual and numerical scoring.
-
 ## Table of Contents
 - [Setup](#setup)
   - [Installing/Updating uv](#installing/updatinguv)
