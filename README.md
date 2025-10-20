@@ -19,7 +19,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv self update
 ```
 
-However, pip can also be used (though we will not provide further setup details, though if you installed `uv` via pip, you can simply type e.g. python3 -m uv sync and achieve similar results):
+However, pip can also be used (we will not provide further setup details, though if you installed `uv` via pip, you can simply type e.g. python3 -m uv sync and achieve similar results):
 ```bash
 pip install uv
 ```
